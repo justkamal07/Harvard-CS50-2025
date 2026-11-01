@@ -105,7 +105,7 @@ To make your learning experience seamless, here are the official weekly modules 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kamal007OLica/Harvard-CS50-2025.git
+   git clone https://github.com/justkamal07/Harvard-CS50-2025.git
    cd Harvard-CS50-2025
    ```
 
